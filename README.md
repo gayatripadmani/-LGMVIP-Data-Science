@@ -37,7 +37,7 @@
 ***DataSet Link :*** https://bit.ly/3kXTdox
 
 
-## More Advanced Level Task : 
+## Advanced Level Task : 
 
 
 ***Task 7 - Develop A Neural Network That Can Read Handwriting***
